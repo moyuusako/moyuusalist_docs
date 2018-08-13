@@ -15,4 +15,5 @@ RecyclerView:
 - デメリット：実装が複雑
   
 →たぶん9月くらいまでに求められるのはListViewレベルのもの  
-　なのでListViewでまずは作る
+　なのでListViewでまずは作る  
+  でもいざ取り込んだらDeprecatedって、非推奨って、どうしよう・・
